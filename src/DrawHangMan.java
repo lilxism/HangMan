@@ -3,9 +3,9 @@ import java.awt.Graphics;
 import java.awt.Graphics2D;
 import javax.swing.JComponent;
 
-/*
+/**
  * File name: DrawHangMan.java
- * Author: Lily Chua Li Nee
+ * Author: Lily Chua
  * Date:10/2/2017
  * Purpose of the code: Homework 1 HangMan
  * Description: This java file is created in order to draw HangMan. 

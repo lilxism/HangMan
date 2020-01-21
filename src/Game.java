@@ -1,7 +1,7 @@
 import java.util.ArrayList;
-/*
+/**
  * File name: Game.java
- * Author: Lily Chua Li Nee
+ * Author: Lily Chua
  * Date:10/1/2017
  * Purpose of the code: Homework 1 HangMan
  * Description: This file is created to store the logic of the game. It is called into the

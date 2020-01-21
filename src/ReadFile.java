@@ -4,9 +4,9 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-/*
+/**
  * File name: ReadFile.java
- * Author: Lily Chua Li Nee
+ * Author: Lily Chua 
  * Date:10/1/2017
  * Purpose of the code: Homework 1
  * Description: This java file is created to read file and tokenize the words from dictionary file.

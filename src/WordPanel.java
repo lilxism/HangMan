@@ -10,7 +10,7 @@ import javax.swing.*;
 
 /**
  * File name: Display.java
- * Author: Lily Chua Li Nee
+ * Author: Lily Chua
  * Date:10/3/2017
  * Purpose of the code: Homework 1 HangMan
  * Description: A constructor is created in order to build the panel. A ClickListener 

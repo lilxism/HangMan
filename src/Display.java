@@ -1,8 +1,8 @@
 import javax.swing.*;
 
-/*
+/**
  * File name: Display.java
- * Author: Lily Chua Li Nee
+ * Author: Lily Chua
  * Date:10/1/2017
  * Purpose of the code: Homework 1 HangMan
  * Description: A main method is created in this file. Dictionary file name that will 
@@ -28,7 +28,9 @@ public class Display extends JFrame{
 		}
 
 		else{
-			System.out.println("Error. Ending.");
+			System.out.println("Error. Ending. Please run in command prompt.");
+			System.out.println("To compile: javac Display.java");
+			System.out.println("To run: java Display dic.txt");
 			System.exit(0);
 		}
 	}

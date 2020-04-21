@@ -1,5 +1,5 @@
 # HangMan
-HangMan in java
+HangMan in java (CS245 Assignment)
 
 This is a HangMan game GUI version coded in java.
 User is allow to have seven guesses. 
